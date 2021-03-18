@@ -8,10 +8,10 @@ I'm just your regular everyday normal introverted guy, nothing special about me 
 ### Goals
 - I aspire to be the owner of the best adult content website. If you're a couple, please send me an email at `kebin1421@hotmail.com`. We can arrange from there.
 
-### Skills
-
 ### Credits
 - Image was created by using <a href="https://www.photopea.com/" target="_blank">Photopea</a>
+
+[![Billy Joel - Piano Man (Official Music Video)](http://img.youtube.com/vi/gxEPV4kolz0/0.jpg)](http://www.youtube.com/watch?v=gxEPV4kolz0 "Billy Joel - Piano Man (Official Music Video)")
 
 
 ## Find me on Internet 🌎: <a href="https://github.com/kirasiris"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/11566280?s=460&v=4"></a>
