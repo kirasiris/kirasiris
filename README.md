@@ -15,7 +15,7 @@ I'm just your regular everyday normal introverted guy, nothing special about me 
 
 
 ## Find me on Internet 🌎: <a href="https://github.com/kirasiris"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/11566280?s=460&v=4"></a>
-- The most horrible website: <a href="https://kevinurielfonseca.com">Kevin Uriel Fonseca</a>
+- The most horrible website: <a href="https://kevinurielfonseca.com" target="_blank">Kevin Uriel Fonseca</a>
 - The most adult content Twitter account: <a href="https://twitter.com/kirasiris" target="_blank">kirasiris</a>
-- 100's of unfinished snippets <a href="https://codepen.io/kirasiris"> Codepen</a> 🏓
-- My "professional" profile <a href="https://www.linkedin.com/in/kevin-fonseca-92266716b">LinkedIn</a> 💼
+- 100's of unfinished snippets <a href="https://codepen.io/kirasiris" target="_blank"> Codepen</a> 🏓
+- My "professional" profile <a href="https://www.linkedin.com/in/kevin-fonseca-92266716b" target="_blank">LinkedIn</a> 💼
