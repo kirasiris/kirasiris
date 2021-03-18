@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![Kirasiris's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirasiris)](https://github.com/kirasiris/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirasiris&repo=befree" />
+</a>
+<a href="https://github.com/kirasiris/shortener-url">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirasiris&repo=shortener-url" />
+</a>
+
+
 <!--
 **kirasiris/kirasiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
