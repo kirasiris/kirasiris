@@ -2,8 +2,98 @@
 
 <img src="https://befreebucket.s3.us-east-2.amazonaws.com/beFree-5fc1c2a00cb53d0017972145-kebin1421-hotmail-com-1616110301064.png">
 
+```
+const profile = {
+  username: kirasiris,
+  fullName: Kevin Uriel Azuara Fonseca,
+  description: "I'm just your regular everyday normal introverted guy, nothing special about me other than being good with JavaScript, PHP and SQL",
+  location: Fort Worth, TX,
+  occupation: Army Reserves,
+  skills: [
+    "bootstrap-3",
+    "bootstrap-4",
+    "codeigniter",
+    "sass",
+    "php",
+    "html5",
+    "css3",
+    "materialize-css",
+    "wordpress",
+    "javascript",
+    "reactjs",
+    "mongodb",
+    "expressjs",
+    "nodejs",
+    "java",
+    "c++",
+    "c#"
+  ],
+  "languages": [
+    "english",
+    "spanish"
+  ],
+  certificates: [
+    {
+        "current": true,
+        "_id": "5fff9eefe7af1f048c2c8ce7",
+        "name": "Comptia IT Fundamentals",
+        "organization": "CompTIA",
+        "from": "2018-04-30T00:00:00.000Z",
+        "to": null,
+        "credentialId": "COMP001021323338",
+        "credentialURL": "https://www.youracclaim.com/badges/9b803e72-68da-4d53-bfd4-b722f2da463e/linked_in_profile",
+        "text": "Earners of the IT Fundamentals certification have the essential IT skills and knowledge needed by advanced end-users and those considering careers in IT. These essentials skills include identifying and explaining computer components, setting up a workstation, conducting software installations, establishing network connectivity, and managing end-user security risks."
+    },
+    {
+        "current": false,
+        "_id": "5fff9f78e7af1f048c2c8ce9",
+        "name": "CompTIA A+ ce",
+        "organization": "CompTIA",
+        "from": "2019-01-08T00:00:00.000Z",
+        "to": "2022-01-08T00:00:00.000Z",
+        "credentialId": "COMP001021323338",
+        "credentialURL": "https://www.youracclaim.com/badges/72a35422-67ee-4f4e-9d3d-9015ec3ad926/linked_in_profile",
+        "text": "Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including device configuration, data backup and recovery, and operating system configuration. CompTIA A+ certified professionals have demonstrated baseline security skills for IT support roles and are able to detect and remove malware, address privacy concerns, and troubleshoot core service challenges."
+    },
+    {
+        "current": false,
+        "_id": "5fffa06ee7af1f048c2c8cef",
+        "name": "Programming I",
+        "organization": "Tarrant County College",
+        "from": "2019-01-19T00:00:00.000Z",
+        "to": "2019-05-05T00:00:00.000Z",
+        "credentialId": "0",
+        "credentialURL": "https://example.com",
+        "text": "Programming I certificate given by TCC"
+    },
+    {
+        "current": false,
+        "_id": "5fffa068e7af1f048c2c8ced",
+        "name": "Programming II",
+        "organization": "Tarrant County College",
+        "from": "2019-08-08T00:00:00.000Z",
+        "to": "2019-11-06T00:00:00.000Z",
+        "credentialId": "0",
+        "credentialURL": "https://example.com",
+        "text": "Programming II certificate given by TCC"
+    }
+  ],
+  education: [
+    {
+      school: "Tarrant County College",
+      degree: "Associates of Science",
+      major: "Information Technology: Programming"
+    },
+    {
+      school: "University of Texas Arlington",
+      degree: "Bachelor of Science",
+      major: "Computer Science"
+    }
+  ]
+}
+```
+
 ### About Me
-I'm just your regular everyday normal introverted guy, nothing special about me other than being good with computers languages such as JavaScript, PHP and SQL
 
 <!--START_SECTION:waka-->
 name: Kirasiris's Readme
