@@ -20,8 +20,8 @@ jobs:
     steps:
       - uses: kirasiris/kirasiris@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.3dc921e7-c6be-4c8c-a1a6-410a5aa8b789 }}
+          GH_TOKEN: ${{ secrets.998154fe722d99fc29752a26bebbf1e7163588ae }}
 <!--END_SECTION:waka-->
 
 ### Goals
