@@ -93,27 +93,6 @@ const profile = {
 }
 ```
 
-### About Me
-
-<!--START_SECTION:waka-->
-name: Kirasiris's Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: kirasiris/kirasiris@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.3dc921e7-c6be-4c8c-a1a6-410a5aa8b789 }}
-          GH_TOKEN: ${{ secrets.998154fe722d99fc29752a26bebbf1e7163588ae }}
-<!--END_SECTION:waka-->
-
 ### Goals
 - I aspire to be the owner of the best adult content website. If you're a couple, please send me an email at `kebin1421@hotmail.com`. We can arrange from there.
 
