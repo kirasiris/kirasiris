@@ -6,7 +6,7 @@
 const profile = {
   username: kirasiris,
   fullName: Kevin Uriel Azuara Fonseca,
-  description: "I'm just your regular everyday normal introverted guy, nothing special about me other than being good with JavaScript, PHP and SQL",
+  description: "I'm just your good with JavaScript, PHP and SQL",
   location: Fort Worth, TX,
   occupation: Army Reserves,
   skills: [
@@ -41,8 +41,7 @@ const profile = {
         "from": "2018-04-30T00:00:00.000Z",
         "to": null,
         "credentialId": "COMP001021323338",
-        "credentialURL": "https://www.youracclaim.com/badges/9b803e72-68da-4d53-bfd4-b722f2da463e/linked_in_profile",
-        "text": "Earners of the IT Fundamentals certification have the essential IT skills and knowledge needed by advanced end-users and those considering careers in IT. These essentials skills include identifying and explaining computer components, setting up a workstation, conducting software installations, establishing network connectivity, and managing end-user security risks."
+        "credentialURL": "https://www.youracclaim.com/badges/9b803e72-68da-4d53-bfd4-b722f2da463e/linked_in_profile"
     },
     {
         "current": false,
@@ -52,8 +51,7 @@ const profile = {
         "from": "2019-01-08T00:00:00.000Z",
         "to": "2022-01-08T00:00:00.000Z",
         "credentialId": "COMP001021323338",
-        "credentialURL": "https://www.youracclaim.com/badges/72a35422-67ee-4f4e-9d3d-9015ec3ad926/linked_in_profile",
-        "text": "Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including device configuration, data backup and recovery, and operating system configuration. CompTIA A+ certified professionals have demonstrated baseline security skills for IT support roles and are able to detect and remove malware, address privacy concerns, and troubleshoot core service challenges."
+        "credentialURL": "https://www.youracclaim.com/badges/72a35422-67ee-4f4e-9d3d-9015ec3ad926/linked_in_profile"
     },
     {
         "current": false,
