@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋
 
-<img src="kevin.png">
+<img src="template.png">
 
 ```
 const profile = {
