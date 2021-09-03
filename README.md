@@ -101,7 +101,7 @@ const profile = {
 
 
 ## Find me on Internet 🌎: <a href="https://github.com/kirasiris" rel="nofollow" target="_blank"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/11566280?s=460&v=4"></a>
-- The most horrible website: <a href="https://kevinurielfonseca.com"  rel="nofollow" target="_blank">Kevin Uriel Fonseca</a>
+- The most horrible website: <a href="https://kevinurielfonseca.me"  rel="nofollow" target="_blank">Kevin Uriel Fonseca</a>
 - The most adult content Twitter account: <a href="https://twitter.com/kirasiris" rel="nofollow" target="_blank">kirasiris</a>
 - 100's of unfinished snippets <a href="https://codepen.io/kirasiris" rel="nofollow" target="_blank"> Codepen</a> 🏓
 - My "professional" profile <a href="https://www.linkedin.com/in/kevin-fonseca-92266716b" rel="nofollow" target="_blank">LinkedIn</a> 💼
