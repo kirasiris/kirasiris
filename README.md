@@ -6,7 +6,7 @@
 const profile = {
   username: kirasiris,
   fullName: Kevin Uriel Azuara Fonseca,
-  description: "I'm just your good with JavaScript, PHP and SQL",
+  description: "I'm just too good with JavaScript, PHP and SQL",
   location: Fort Worth, TX,
   occupation: Army Reserves,
   skills: [
@@ -78,14 +78,14 @@ const profile = {
   ],
   education: [
     {
-      school: "Tarrant County College",
-      degree: "Associates of Science",
-      major: "Information Technology: Programming"
+      "school": "Tarrant County College",
+      "degree": "Associates of Science",
+      "major": "Information Technology: Programming"
     },
     {
-      school: "University of Texas Arlington",
-      degree: "Bachelor of Science",
-      major: "Computer Science"
+      "school": "University of Texas Arlington",
+      "degree": "Bachelor of Science",
+      "major": "Computer Science"
     }
   ]
 }
