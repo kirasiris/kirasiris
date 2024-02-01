@@ -9,7 +9,7 @@ const profile = {
   fullName: "Kevin Uriel Fonseca",
   description: "I'm just too good with JavaScript, PHP and SQL",
   location: "Fort Worth, TX",
-  occupation: "Army Reserves",
+  occupation: "UPS",
   skills: [
     "bootstrap-3",
     "bootstrap-4",
