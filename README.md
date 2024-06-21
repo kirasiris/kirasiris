@@ -7,9 +7,21 @@
 const profile = {
   username: "kirasiris",
   fullName: "Kevin Uriel Fonseca",
-  description: "I'm just too good with JavaScript, PHP and SQL",
+  description: "I'm just in love with JS, PHP and SQL",
   location: "Fort Worth, TX",
-  occupation: "UPS",
+  occupation: ['The U.S. Army Veteran', 'UPS Driver'],
+  education: [
+   {
+     "name":  "Tarleton State University",
+     "graduationDate": "June 21, 2024",
+     "major": "B.A.A.S in IT"
+   },
+   {
+     "name":  "Tarrant County College",
+     "graduationDate": "May 05, 2021",
+     "major": "A.A.S in IT"
+   },
+  ],
   skills: [
     "bootstrap-3",
     "bootstrap-4",
