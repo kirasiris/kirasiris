@@ -3,6 +3,8 @@
 <img src="My Great Capture Screenshot 2024-06-11 09-40-27.png">
 
 [![wakatime](https://wakatime.com/badge/user/684e12ee-ee44-4f33-8d51-0e2cd1e90dab/project/d5d71a2b-dfa0-493a-968e-37372d302991.svg)](https://wakatime.com/badge/user/684e12ee-ee44-4f33-8d51-0e2cd1e90dab/project/d5d71a2b-dfa0-493a-968e-37372d302991)
+
+<a href="https://app.daily.dev/kirasiris"><img src="https://api.daily.dev/devcards/v2/SXaZcuVx94DMDBoNr7Ymd.png?type=wide&r=0iy" width="652" alt="Kevin Uriel Fonseca's Dev Card"/></a>
 ```js
 const profile = {
   username: "kirasiris",
