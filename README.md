@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋
 
-<img src="My Great Capture Screenshot 2024-06-11 09-40-27.png">
+<img src="github-header-image.png">
 
 [![wakatime](https://wakatime.com/badge/user/684e12ee-ee44-4f33-8d51-0e2cd1e90dab/project/d5d71a2b-dfa0-493a-968e-37372d302991.svg)](https://wakatime.com/badge/user/684e12ee-ee44-4f33-8d51-0e2cd1e90dab/project/d5d71a2b-dfa0-493a-968e-37372d302991)
 
