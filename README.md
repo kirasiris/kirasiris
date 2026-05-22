@@ -58,26 +58,11 @@
 <details>
 <summary>Goals</summary>
 <br/>
-- I aspire to be the owner of the best adult content website. If you're a couple, please send me an email at `kebin1421@hotmail.com`. We can arrange from there.
+- I aspire to be part of a team that builds great software!
 </details>
 <details>
 <summary>Credits</summary>
 - Image was created by using <a href="https://www.photopea.com/" rel="nofollow" target="_blank">Photopea</a>
-</details>
-
-### 📊 Github stats
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kirasiris's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kirasiris&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kirasiris's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirasiris&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a></p>
-</details>
-
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-<p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kirasiris's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=kirasiris&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a></p>
 </details>
 
 <details>
@@ -85,8 +70,6 @@
 <a href="https://github.com/kirasiris" rel="nofollow" target="_blank"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/11566280?s=460&v=4"></a>
 <ul>
 <li> - The most horrible website: <a href="https://kevinurielfonseca.me"  rel="nofollow" target="_blank">Kevin Uriel Fonseca</a></li>
-<li> - The most adult content Twitter account: <a href="https://twitter.com/kirasiris" rel="nofollow" target="_blank">kirasiris</a></li>
-<li> - 100's of unfinished snippets <a href="https://codepen.io/kirasiris" rel="nofollow" target="_blank"> Codepen</a> 🏓</li>
 <li> - My "professional" profile <a href="https://www.linkedin.com/in/kevin-fonseca-92266716b" rel="nofollow" target="_blank">LinkedIn</a> 💼</li>
 </ul>
 </details>
