@@ -16,7 +16,7 @@
     "title": "Armed Code, LLC",
     "position": "Owner"
   },
-  "occupation": ["The U.S. Army Veteran", "UPS Driver"],
+  "occupation": ["Product Mechanical Engineer at Wistron"],
   "education": [
    {
      "name":  "Tarleton State University",
